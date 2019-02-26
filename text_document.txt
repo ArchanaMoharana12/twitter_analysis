@@ -1,0 +1,15 @@
+1. https://www.rittmanmead.com/blog/2015/08/three-easy-ways-to-stream-twitter-data-into-elasticsearch/
+
+
+2.
+Consumer API keys
+DGDU4Ld7ljV6PCP9KHnXThYt0 (API key)
+
+ILeLvVB7gnAGGC2tXwDZe7d0erDVSeoL3jhyagxj7QT6ZHSl7o (API secret key)
+
+Access token & access token secret
+998465613126361090-tkRC4gXhS06ivFhzfk5FrK6eoeiMKvC (Access token)
+
+W6zd2DuVBpPY55fYxxo33UxDL9pB2vMsDFb2qtvifuOgG (Access token secret)
+	
+
